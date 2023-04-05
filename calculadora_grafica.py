@@ -1,6 +1,6 @@
-from tkinter import*
-from math import*
+import tkinter as tk
 
-ventana =Tk()
+
+ventana =tk.Tk()
 ventana.title("CALCULADORA")
 ventana.geometry("392x600")
